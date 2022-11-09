@@ -13,3 +13,11 @@ h3 {
 .blue-text {
     color: blue
 }
+
+#white-text {
+    color: white
+}
+
+header {
+    background-color: aquamarine;
+}

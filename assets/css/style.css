@@ -25,3 +25,9 @@ h3 {
 header {
     background-color: aquamarine;
 }
+
+.worst-cats {
+    font-size: larger;
+    color: aqua;
+    background-color: black;
+}

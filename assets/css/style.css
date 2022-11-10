@@ -1,5 +1,5 @@
 * {
-    font-family: Papyrus;
+    font-family: Papyrus, Arial, sans-serif;
 }
 
 body {
@@ -28,6 +28,7 @@ header {
 
 .worst-cats {
     font-size: larger;
+    font-weight: bolder;
     color: aqua;
     background-color: black;
 }

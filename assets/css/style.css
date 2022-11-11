@@ -33,3 +33,10 @@ header {
     color: aqua;
     background-color: black;
 }
+
+.box-model {
+    border: 10px solid purple;
+    background-color: aqua;
+    padding: 20px;
+    width: 50vw;
+}

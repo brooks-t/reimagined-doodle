@@ -57,8 +57,23 @@ header {
 #box-model-positioning {
     background-color: black;
     height: 250px;
+    position: relative;
 }
 
-#box-A {
+#box-a {
     background-color: aliceblue;
+    width: 30%;
+    display: inline-block;
+    position: relative;
+    left: 25px;
+    top: 50px;
+}
+
+#box-b {
+    background-color: aliceblue;
+    width: 30%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 50px;
 }

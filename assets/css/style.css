@@ -53,3 +53,12 @@ header {
     width: 40%;
     font-size: x-large;
 }
+
+#box-model-positioning {
+    background-color: black;
+    height: 250px;
+}
+
+#box-A {
+    background-color: aliceblue;
+}

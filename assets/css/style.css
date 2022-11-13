@@ -77,3 +77,7 @@ header {
     left: 50px;
     top: 50px;
 }
+
+#under-construction {
+    border: 5px solid black;
+}

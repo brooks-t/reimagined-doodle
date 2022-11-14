@@ -93,3 +93,7 @@ header {
     background-color: orange;
     border: 5px solid maroon;
 }
+
+#under-construction {
+    border: 5px solid black;
+}

@@ -77,3 +77,19 @@ header {
     left: 50px;
     top: 50px;
 }
+
+#flex-box {
+    display: flex;
+    border: 5px solid black;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 500px;
+}
+
+.flex-item {
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    border: 5px solid maroon;
+}

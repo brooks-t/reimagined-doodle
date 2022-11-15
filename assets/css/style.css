@@ -92,6 +92,11 @@ header {
     width: 100px;
     background-color: orange;
     border: 5px solid maroon;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px black;
+    transform: rotate(10deg);
+    transition: all ease 10s;
+
 }
 
 #under-construction {

@@ -1,5 +1,5 @@
 * {
-    font-family: Papyrus, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box; /* include the border in the width as opposed to adding on to it */
@@ -108,4 +108,18 @@ header {
 
 #under-construction {
     border: 5px solid black;
+}
+
+#separator {
+    height: 2vh;
+    background-color: blueviolet;
+}
+
+#buttons-demo {
+    height: 10vh;
+    background-color: brown;
+}
+
+button:hover {
+    transform: scale(2);
 }
